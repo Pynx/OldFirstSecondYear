@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{204923FD-56CD-4BA4-BC01-D7E5103F1363}") = "1415_sokoban", "1415_sokoban.vcxproj", "{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Android|Win32 = Android|Win32
+		Debug|Win32 = Debug|Win32
+		PS3|Win32 = PS3|Win32
+		PSP|Win32 = PSP|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.Android|Win32.ActiveCfg = Android|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.Android|Win32.Build.0 = Android|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.Debug|Win32.Build.0 = Debug|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.PS3|Win32.ActiveCfg = PS3|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.PS3|Win32.Build.0 = PS3|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.PSP|Win32.ActiveCfg = PSP|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.PSP|Win32.Build.0 = PSP|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.Release|Win32.ActiveCfg = Release|Win32
+		{460450DC-CBA2-4087-9BB9-E6BD32CEC53B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

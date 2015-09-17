@@ -1,0 +1,9 @@
+<personne>
+	<nom/>
+	<prenom/>
+	<special un="un" deux='un'/>
+	<wtf valeurrandom='4242' Deuxiemevaleur='42'>
+		<useless/>
+	</wtf>
+	<nimp/>
+</personne>

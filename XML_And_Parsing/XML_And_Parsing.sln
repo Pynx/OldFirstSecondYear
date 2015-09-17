@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAB6C3A1-6959-4BA2-AD64-DE29E013C627}") = "XML_And_Parsing", "XML_And_Parsing.vcxproj", "{B373D206-D7C0-4689-A60D-49D08CAFD445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Android|Win32 = Android|Win32
+		Debug|Win32 = Debug|Win32
+		PS3|Win32 = PS3|Win32
+		PSP|Win32 = PSP|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.Android|Win32.ActiveCfg = Android|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.Android|Win32.Build.0 = Android|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.Debug|Win32.Build.0 = Debug|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.PS3|Win32.ActiveCfg = PS3|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.PS3|Win32.Build.0 = PS3|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.PSP|Win32.ActiveCfg = PSP|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.PSP|Win32.Build.0 = PSP|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.Release|Win32.ActiveCfg = Release|Win32
+		{B373D206-D7C0-4689-A60D-49D08CAFD445}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

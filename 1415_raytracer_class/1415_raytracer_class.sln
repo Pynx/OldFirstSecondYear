@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{079D953B-373A-4465-A920-DC1E35656B60}") = "1415_raytracer_class", "1415_raytracer_class.vcxproj", "{412C1748-2C8C-49AE-8A47-182F7237E2E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Android|Win32 = Android|Win32
+		Debug|Win32 = Debug|Win32
+		PS3|Win32 = PS3|Win32
+		PSP|Win32 = PSP|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.Android|Win32.ActiveCfg = Android|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.Android|Win32.Build.0 = Android|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.Debug|Win32.Build.0 = Debug|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.PS3|Win32.ActiveCfg = PS3|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.PS3|Win32.Build.0 = PS3|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.PSP|Win32.ActiveCfg = PSP|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.PSP|Win32.Build.0 = PSP|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.Release|Win32.ActiveCfg = Release|Win32
+		{412C1748-2C8C-49AE-8A47-182F7237E2E0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

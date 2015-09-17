@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="player.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="global.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\main\lib\flib\flib.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="drawable.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\main\lib\flib\flib_vec2.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="collidable.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interactive.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+    <ClCompile Include="map.cpp">
+      <Filter>CPP Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="drawable.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="collidable.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="interactive.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="map.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{b640ae7e-4802-4be0-bb75-2efa428663fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CPP Files">
+      <UniqueIdentifier>{1122425a-d582-4834-ae44-a1979b45c636}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

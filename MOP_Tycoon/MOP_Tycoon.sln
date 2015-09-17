@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{916E7D9A-6C1C-468C-850C-8DCBD2F00810}") = "MOP_Tycoon", "MOP_Tycoon.vcxproj", "{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Android|Win32 = Android|Win32
+		Debug|Win32 = Debug|Win32
+		PS3|Win32 = PS3|Win32
+		PSP|Win32 = PSP|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.Android|Win32.ActiveCfg = Android|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.Android|Win32.Build.0 = Android|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.Debug|Win32.Build.0 = Debug|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.PS3|Win32.ActiveCfg = PS3|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.PS3|Win32.Build.0 = PS3|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.PSP|Win32.ActiveCfg = PSP|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.PSP|Win32.Build.0 = PSP|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.Release|Win32.ActiveCfg = Release|Win32
+		{ED8E4F96-F89F-480C-9743-FDAE69F0E42F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
